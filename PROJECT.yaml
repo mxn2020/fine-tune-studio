@@ -1,5 +1,6 @@
-id: 43dd2544-1839-478f-8150-b57d45083547
 name: fine-tune-studio
+project_scope: main
+project_type: standalone
 description: React + TypeScript + Vite
 tier: prototype
 lane: oss
@@ -9,5 +10,6 @@ stack: [typescript, react, convex, vite]
 repo: "https://github.com/mxn2020/fine-tune-studio"
 deploy_url: null
 last_active: 2026-02-24
-tags: []
-notes: 
+tags: [ai, fine-tuning, machine-learning, models, training, studio, tools]
+notes: null
+id: 43dd2544-1839-478f-8150-b57d45083547
